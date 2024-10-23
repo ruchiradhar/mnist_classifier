@@ -1,0 +1,27 @@
+Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1725267563793/work
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1725278078093/work/certifi
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1725560574711/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1728479282467/work
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1726613473834/work
+gmpy2 @ file:///Users/runner/miniforge3/conda-bld/gmpy2_1725379827413/work
+h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1634280454336/work
+hpack==4.0.0
+hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1726459485162/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1715127149914/work
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1729351316447/work
+mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1678228039184/work
+networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1729530778722/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1728239955554/work/dist/numpy-2.1.2-cp310-cp310-macosx_11_0_arm64.whl#sha256=10bd2ef346d764fb1182a1d21625e3daf3d02e66dec46787bbea623d3ac95d3d
+pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1729065728065/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1711811537435/work
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+PyYAML @ file:///Users/runner/miniforge3/conda-bld/pyyaml_1725456214747/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1717057054362/work
+sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1727529700862/work
+torch==2.5.0
+torchaudio==2.5.0
+torchvision==0.20.0
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717802530399/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1726496430923/work
+zstandard==0.23.0
